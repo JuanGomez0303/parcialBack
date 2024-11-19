@@ -2,7 +2,7 @@ package com.example.parcialback.controladores;
 
 
 
-import com.example.parcialback.dtos.Usuario.ContratoDTO;
+import com.example.parcialback.dtos.Contrato.ContratoDTO;
 import com.example.parcialback.errores.ResourceNotFound;
 import com.example.parcialback.servicios.ContratoServicio;
 import org.springframework.http.ResponseEntity;

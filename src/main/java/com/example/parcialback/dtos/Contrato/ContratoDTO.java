@@ -1,4 +1,4 @@
-package com.example.parcialback.dtos.Usuario;
+package com.example.parcialback.dtos.Contrato;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

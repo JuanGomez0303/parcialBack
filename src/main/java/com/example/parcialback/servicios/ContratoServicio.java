@@ -1,7 +1,7 @@
 package com.example.parcialback.servicios;
 
 
-import com.example.parcialback.dtos.Usuario.ContratoDTO;
+import com.example.parcialback.dtos.Contrato.ContratoDTO;
 import com.example.parcialback.modelos.Contrato.Contrato;
 import com.example.parcialback.repositorios.ContratoRepositorio;
 import org.modelmapper.ModelMapper;
